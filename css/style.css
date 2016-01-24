@@ -1,0 +1,55 @@
+body{
+background-color:black; 
+color:white;
+
+
+
+}
+
+
+div#chatspace{
+border-radius: 25px;
+text-align:left;
+margin:0 auto;
+margin-bottom:25px;
+padding:10px;
+height:270px;
+width:430px;
+border:1px solid #ACD8F0;
+overflow: scroll;
+background: url(../images/paper.gif);
+color:black;
+
+
+
+}
+
+div#input_text{
+
+width:430px;
+overflow:auto;
+margin:0 auto;
+
+
+}
+#usertext {
+width: 420px;
+height:50px;
+border-radius: 5px;
+padding: 20px; 
+}
+
+
+div#typing{
+
+width:430px;
+height:20px;
+overflow:auto;
+margin:0 auto;
+text-color:white;
+
+
+
+}
+
+
